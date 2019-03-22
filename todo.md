@@ -1,11 +1,13 @@
 # TODO:
-Setup base structure for LEGO and Roomba programs consisting of:
--Include KIPR library
--Function to start as soon as light is detected to be on
--Timer countdown begins as soon as light is on
--Timer is set to countdown for 119000ms (119 seconds)
----Time is set to 119 seconds to avoid accidental overtime
+Setup base structure for LEGO and Roomba programs consisting of:\
+[X]Include KIPR library\
+[X]Function to start as soon as light is detected to be on\
+[X]Timer countdown begins as soon as light is on\
+[X]Timer is set to countdown for 119000ms (119 seconds)\
+---Time is set to 119 seconds to avoid accidental overtime\
 \**This will be used as the base, or starting file, for both robots. It will then be modified for the specific needs of each robot.
+
+*[✓] - Denotes task complete; [X] Denotes task incomplete
 
 ### EVERYONE:
 Document all functions with uses and examples, especially during commits.
