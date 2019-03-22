@@ -5,6 +5,7 @@ Setup base structure for LEGO and Roomba programs consisting of:\
 [X]Timer countdown begins as soon as light is on\
 [X]Timer is set to countdown for 119000ms (119 seconds)\
 ---Time is set to 119 seconds to avoid accidental overtime\
+
 \**This will be used as the base, or starting file, for both robots. It will then be modified for the specific needs of each robot.
 
 *[✓] - Denotes task complete; [X] Denotes task incomplete
