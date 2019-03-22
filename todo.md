@@ -1,4 +1,4 @@
-# TODO:
+# TO DO:
 Setup base structure for LEGO and Roomba programs consisting of:\
 [X]Include KIPR library\
 [X]Function to start as soon as light is detected to be on\
